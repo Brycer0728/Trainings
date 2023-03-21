@@ -20,4 +20,4 @@ copy_cart = amazon_cart[:] # this is a way of copying a list without modifying i
 
 # in line 14, if you get rid of '[0:3]' and just make it to where the line reads 'new_cart = amazon_cart'
 # that is completely changing 'amazon_cart' if you follow with something like like 15
-# 'amazon_cart' would now print whatever 'new_cart' prints
+# 'amazon_cart' would now print whatever 'new_cart' prints.
