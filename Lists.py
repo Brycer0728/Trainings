@@ -12,4 +12,4 @@ li3 = [1,2,'a', True]
  
 amazon_cart = ['notebooks', 'sunglasses']
 print(amazon_cart[0])
-# line 13 prints 'notebooks' since it's the first piece of data in the list
+# line 13 prints 'notebooks' since it's the first piece of data in the list.
