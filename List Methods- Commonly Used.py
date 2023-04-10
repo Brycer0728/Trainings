@@ -29,6 +29,7 @@ print(sorted(basket_2))
 # line 28 prints '['a', 'b', 'c', 'd', 'd', 'e', 'x']' because sorted will actually return a value
 
 # '.copy()' allows you to copy a list
+basket_2.copy()
 
 # '.reverse()' reverses the order of the list but doesn't sort it. It just reverses the indexs
 # since 'basket_2' is still sorted due to line 28, if we reverse the order it will print in a sorted reverse order
